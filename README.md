@@ -12,4 +12,4 @@ Return the resulting output array.
 
 For example, twoToThe([1,2,3]) returns [2,4,8] because 2 ^ 1 = 2, 2 ^ 2 = 4, and 2 ^ 3 = 8.
 *********************************************************************************************************
-3-
+3-Write a function named oddValues that, given an array of integers as input, uses filter to return an array containing only the odd integers.
