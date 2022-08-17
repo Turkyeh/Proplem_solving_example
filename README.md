@@ -1,5 +1,17 @@
 # Proplem_solving_example
 
+***********************
+1-Converting from uppercase letters to lowercase letters and vice versa use map in higher order function;
+
+
+
+*********************
+2زConverting from a negative number to a positive number and  vice verse
+
+****************************************
+
+
+
 1_Write a function named fizzbuzz that takes in an array of numbers.
 Iterate over the array using forEach to determine the output based on several rules:
   - If a number is divisible by 3, add the word "Fizz" to the output array.
