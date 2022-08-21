@@ -35,11 +35,11 @@ Note: You may not use the array's built-in length property.
 
 Map/filter/reduce :
 
-map([🌽, 🐮, 🐔], cook)
+map([🌽, 🐮, 🐔], cook) return new array
 => [🍿, 🍔, 🍳]
 
 filter([🍿, 🍔, 🍳], isVegetarian)
-=>  [🍿, 🍳]
+=>  [🍿, 🍳]   
 
 reduce([🍿, 🍳], eat)
 => 💩
